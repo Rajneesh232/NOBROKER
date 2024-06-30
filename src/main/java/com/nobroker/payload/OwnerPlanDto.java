@@ -3,8 +3,8 @@ package com.nobroker.payload;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
-@NoArgsConstructor
-@AllArgsConstructor
+//@NoArgsConstructor
+//@AllArgsConstructor
 public class OwnerPlanDto {
 
 	private long planId;
